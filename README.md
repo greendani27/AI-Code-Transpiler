@@ -28,8 +28,8 @@ This tool focuses on syntax preservation, structural mapping, and object-oriente
 
 ### Prerequisites
 
-- Python 3.9+
-- Node.js (v16+)
+- Python 3.15.0
+- Node.js (v24.17)
 - A Google Gemini API Key from [Google AI Studio](https://aistudio.google.com/)
 
   ### Installation
